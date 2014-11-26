@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dinusha.ConcurrancyUtilities/Exchanger.cs">
+    <Files>
+      <File FileName="Dinusha.ConcurrancyUtilities/ActiveObject.cs" Line="1" Column="1" />
+      <File FileName="Dinusha.ConcurrancyUtilities/InputChannelActiveObject.cs" Line="1" Column="1" />
+      <File FileName="Dinusha.ConcurrancyUtilities/OutputChannelActiveObject.cs" Line="1" Column="1" />
+      <File FileName="Dinusha.ConcurrancyUtilities/InputOutputChannelActiveObject.cs" Line="1" Column="1" />
+      <File FileName="TestActiveObjects/Program.cs" Line="1" Column="1" />
+      <File FileName="Dinusha.ConcurrancyUtilities/Barrier.cs" Line="1" Column="1" />
+      <File FileName="Dinusha.ConcurrancyUtilities/Channel.cs" Line="1" Column="1" />
+      <File FileName="Dinusha.ConcurrancyUtilities/BoundChannel.cs" Line="1" Column="1" />
+      <File FileName="DininingPil/Program.cs" Line="1" Column="1" />
+      <File FileName="DininingPil/Philosopher.cs" Line="1" Column="1" />
+      <File FileName="Dinusha.ConcurrancyUtilities/FIFOSemaphore.cs" Line="1" Column="1" />
+      <File FileName="Dinusha.ConcurrancyUtilities/Exchanger.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

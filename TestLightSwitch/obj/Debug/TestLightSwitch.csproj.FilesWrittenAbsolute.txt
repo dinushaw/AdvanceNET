@@ -1,0 +1,7 @@
+/Users/dinusha/Projects/AdvanceNET/TestLightSwitch/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/dinusha/Projects/AdvanceNET/TestLightSwitch/bin/Debug/Dinusha.ConcurrancyUtilities.dll
+/Users/dinusha/Projects/AdvanceNET/TestLightSwitch/bin/Debug/Dinusha.ConcurrancyUtilities.dll.mdb
+/Users/dinusha/Projects/AdvanceNET/TestLightSwitch/bin/Debug/TestLightSwitch.exe.mdb
+/Users/dinusha/Projects/AdvanceNET/TestLightSwitch/bin/Debug/TestLightSwitch.exe
+/Users/dinusha/Projects/AdvanceNET/TestLightSwitch/obj/Debug/TestLightSwitch.exe
+/Users/dinusha/Projects/AdvanceNET/TestLightSwitch/obj/Debug/TestLightSwitch.exe.mdb

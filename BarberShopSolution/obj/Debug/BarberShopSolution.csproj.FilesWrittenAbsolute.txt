@@ -1,0 +1,7 @@
+/Users/dinusha/Projects/AdvanceNET/BarberShopSolution/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/dinusha/Projects/AdvanceNET/BarberShopSolution/bin/Debug/BarberShopSolution.exe.mdb
+/Users/dinusha/Projects/AdvanceNET/BarberShopSolution/bin/Debug/BarberShopSolution.exe
+/Users/dinusha/Projects/AdvanceNET/BarberShopSolution/obj/Debug/BarberShopSolution.exe
+/Users/dinusha/Projects/AdvanceNET/BarberShopSolution/obj/Debug/BarberShopSolution.exe.mdb
+/Users/dinusha/Projects/AdvanceNET/BarberShopSolution/bin/Debug/Dinusha.ConcurrancyUtilities.dll
+/Users/dinusha/Projects/AdvanceNET/BarberShopSolution/bin/Debug/Dinusha.ConcurrancyUtilities.dll.mdb
